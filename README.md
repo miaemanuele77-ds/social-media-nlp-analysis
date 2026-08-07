@@ -35,13 +35,13 @@ The workflow included:
 8. Syntactic parsing
 9. Sentiment analysis
 
-## 🧰 Tools and Libraries
-- Python
-- NLTK
-- TextBlob
-- Rule-based sentiment analysis
-- Lexical preprocessing
-- Syntactic parsing
+## 💻 Python Scripts
+
+The project is organised into two scripts:
+
+- **nltk_analysis.py** – performs text preprocessing, POS tagging, named-entity recognition, parsing and sentiment analysis using NLTK.
+
+- **textblob_analysis.py** – analyses the same text using TextBlob to compare tokenisation, sentiment analysis, parsing and lemmatisation outputs.
 
 ## 📊 Results
 The analysis identified references to time, location, mobilisation and physical objects within the text.
