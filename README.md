@@ -54,11 +54,11 @@ The NLP analysis successfully identified key linguistic features within the fict
 
 Sentiment analysis produced consistent findings across both libraries. NLTK identified a predominantly neutral message with a moderately positive tone, while TextBlob reported a slightly positive polarity and moderate subjectivity. Collectively, these results suggest enthusiasm or anticipation rather than explicit hostility or aggression.
 
-### Sentiment Comparison
+### NLP Library Comparison
 
-The table below summarises the sentiment outputs produced by NLTK and TextBlob.
+The table below summarises the key outputs, strengths and limitations of NLTK and TextBlob when analysing the fictional social media post.
 
-![Sentiment Comparison](images/sentiment_comparison.png)
+![NLP Library Comparison](images/nlp_comparison_summary.png)
 
 ## ⚖️ Limitations and Ethical Considerations
 The analysis was based on a single fictional post and should not be interpreted as a reliable public-safety classification system.
